@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one/:/",
-      "/content/citisignal-one/configuration:/.helix/config.json",
-      "/content/citisignal-one/metadata:/metadata.json",
-      "/content/citisignal-one/configs:/configs.json",
-      "/content/citisignal-one/configs-stage:/configs-stage.json",
-      "/content/citisignal-one/configs-dev:/configs-dev.json",
-      "/content/citisignal-one/redirects:/redirects.json",
-      "/content/citisignal-one/placeholders:/placeholders.json",
-      "/content/citisignal-one/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/zeiss-vision/:/",
+      "/content/zeiss-vision/configuration:/.helix/config.json",
+      "/content/zeiss-vision/metadata:/metadata.json",
+      "/content/zeiss-vision/configs:/configs.json",
+      "/content/zeiss-vision/configs-stage:/configs-stage.json",
+      "/content/zeiss-vision/configs-dev:/configs-dev.json",
+      "/content/zeiss-vision/redirects:/redirects.json",
+      "/content/zeiss-vision/placeholders:/placeholders.json",
+      "/content/zeiss-vision/products/recommended-products:/products/recommended-products.json",
+      "/content/zeiss-vision/enrichment/enrichment:/enrichment/enrichment.json",
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one",
+      "/content/zeiss-vision",
       "/content/dam/citisignal/images/products/"
     ]
 }
